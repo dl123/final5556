@@ -1,0 +1,11 @@
+
+import '@/assets/resume/js/vendor/jquery-2.2.4.min.js'
+import '@/assets/resume/js/vendor/bootstrap.min.js'
+import '@/assets/resume/js/jquery.ajaxchimp.min.js'
+import '@/assets/resume/js/jquery.magnific-popup.min.js'
+import '@/assets/resume/js/parallax.min.js'
+import '@/assets/resume/js/owl.carousel.min.js'
+import '@/assets/resume/js/jquery.sticky.js'
+import '@/assets/resume/js/main.js'
+import '@/assets/resume/js/Smooth_Scrolling.js'
+import '@/assets/resume/js/menu.js'

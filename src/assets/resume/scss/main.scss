@@ -1,0 +1,23 @@
+
+//@import "./assets/resume/scss/bootstrap/functions";
+//@import "./assets/resume/scss/bootstrap/variables";
+
+//
+// Grid mixins
+//
+
+@import "./assets/resume/scss/bootstrap/mixins/breakpoints";
+
+
+// including variables and mixins
+@import "./assets/resume/scss/theme/variables";
+@import "./assets/resume/scss/theme/mixins";
+@import "./assets/resume/scss/theme/flexbox";
+@import "./assets/resume/scss/theme/reset";
+
+
+// Custom Scss 
+@import "./assets/resume/scss/theme/elements";
+@import "./assets/resume/scss/theme/header";
+@import "./assets/resume/scss/theme/home";
+@import "./assets/resume/scss/theme/footer";
